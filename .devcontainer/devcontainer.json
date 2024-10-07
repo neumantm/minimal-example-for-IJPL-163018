@@ -1,0 +1,6 @@
+{
+	"name": "minimal-example-for-IJPL-163018",
+	"dockerComposeFile": "compose.yaml",
+	"service": "alpine",
+	"workspaceFolder": "/workspace"
+}

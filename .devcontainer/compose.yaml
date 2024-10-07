@@ -1,0 +1,8 @@
+services:
+  alpine:
+    build:
+      dockerfile: Dockerfile
+    tty: true
+    stdin_open: true
+    volumes:
+      - ..:/workspace
